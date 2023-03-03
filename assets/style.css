@@ -1,0 +1,17 @@
+*{
+    font-family: Georgia;
+}
+.title {
+background-color: rgb(236, 125, 21);
+color:rgb(106, 11, 134);
+text-align: center;
+}
+#Head {
+ font-size: 75px;
+ font: bold;
+}
+.lesson {
+    display: inline;
+    background-color: rgb(106, 11, 134);
+    color: rgb(236, 125, 21); 
+}
