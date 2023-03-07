@@ -1,17 +1,56 @@
 *{
     font-family: Georgia;
+    
+}
+body {
+    background-color: rgb(236, 125, 21);
 }
 .title {
 background-color: rgb(236, 125, 21);
 color:rgb(106, 11, 134);
 text-align: center;
+padding: 0px;
+margin: 0px auto;
 }
 #Head {
  font-size: 75px;
  font: bold;
 }
 .lesson {
-    display: inline;
     background-color: rgb(106, 11, 134);
-    color: rgb(236, 125, 21); 
+    color: rgb(106, 11, 134) 
+}
+ul li{
+    display: inline;
+    padding: 5px right;
+    text-align: end;
+}
+#contact{
+    display:block;
+    text-align: end;
+    background-color: rgb(106, 11, 134);
+    color: rgb(236, 125, 21);
+    padding:5px;
+
+}
+#para {
+    display: block;
+    background-color: rgb(106, 11, 134);
+    color: rgb(236, 125, 21);
+    height:200px;
+    width: 400px;
+}
+#footer {
+    font-size:50px;
+    font:bold;
+    text-align: center;
+}
+#E {
+    background-color: rgb(106, 11, 134);
+}
+#P {
+    background-color: rgb(106, 11, 134);
+}
+#GH {
+    background-color: rgb(106, 11, 134);
 }
